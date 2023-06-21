@@ -1,5 +1,5 @@
 /**
- * @see <a href="https://leetcode.com/problems/two-sum/submissions/974465322/?envType=study-plan-v2&envId=top-100-liked">Two Sum</a>
+ * @see <a href="https://leetcode.com/problems/two-sum/description/?envType=study-plan-v2&envId=top-100-liked">Two Sum</a>
  */
 
 class Solution {
